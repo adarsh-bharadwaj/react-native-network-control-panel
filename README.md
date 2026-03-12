@@ -1,6 +1,6 @@
-# React Native Enterprise Network Architecture
+# React Native Network Control Plane
 
-Production-grade networking architecture for React Native applications.
+Enterprise-grade networking control plane for React Native applications.
 
 This repository demonstrates how to build a **resilient, observable, and scalable networking control layer** designed to handle real-world mobile constraints such as:
 
