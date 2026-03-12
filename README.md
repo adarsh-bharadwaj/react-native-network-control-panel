@@ -1,4 +1,7 @@
 # React Native Network Control Plane
+![License](https://img.shields.io/badge/license-MIT-green)
+![Platform](https://img.shields.io/badge/platform-React%20Native-blue)
+![Architecture](https://img.shields.io/badge/architecture-enterprise-orange)
 
 Enterprise-grade networking control plane for React Native applications.
 
@@ -12,6 +15,24 @@ This repository demonstrates how to build a **resilient, observable, and scalabl
 * performance monitoring
 
 Instead of letting UI components call APIs directly, this architecture introduces a **central networking control plane** responsible for governing every request.
+
+## Table of Contents
+
+- Architecture Overview
+- Key Capabilities
+- Architecture Layers
+- Resilience Systems
+- Offline Durability
+- Real-Time Event System
+- Observability
+- Performance Governance
+- Chaos Engineering
+- Transport Layer
+- Repository Structure
+- Example Request Flow
+- Installation
+<!-- - Documentation -->
+- Related Blog Series
 
 ---
 
@@ -531,7 +552,7 @@ Before running this project, ensure you have:
 Clone the repository:
 
 ```
-git clone https://github.com/yourname/react-native-enterprise-network-architecture
+git clone https://github.com/adarsh-bharadwaj/react-native-network-control-panel.git
 ```
 
 Install dependencies:
@@ -579,7 +600,7 @@ const { data, isLoading, error } = useUsers();
 
 ---
 
-# Documentation
+<!-- # Documentation
 
 Additional architecture documentation:
 
@@ -590,7 +611,7 @@ docs
 └── resilience-systems.md
 ```
 
----
+--- -->
 
 # Contributing
 
